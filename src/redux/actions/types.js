@@ -1,0 +1,3 @@
+export const NEW_CUSTOMER = 'NEW_CUSTOMER';
+export const GET_DELIVERYBOYS = 'GET_DELIVERYBOYS';
+export const GET_AUTHDATA = 'GET_AUTHDATA';
